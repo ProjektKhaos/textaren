@@ -2,7 +2,7 @@
 
 ![Textaren OpenGraph-bild](image/textaren_og_2.png)
 
-**Textaren** är en fristående PHP-sida för att skapa SRT-undertexter från en lokal ljud- eller videofil.
+**Textaren** är en webapp för att skapa SRT-undertexter från en lokal ljud- eller videofil.
 
 Du väljer media, klistrar in texten och tidsätter raderna under uppspelning. När tiderna är klara kan du exportera resultatet som `.srt`.
 
