@@ -6,6 +6,10 @@
 
 Du väljer media, klistrar in texten och tidsätter raderna under uppspelning. När tiderna är klara kan du exportera resultatet som `.srt`.
 
+## Viktigt om filer och integritet
+
+Allt sker lokalt i webbläsaren. Mediafilen du väljer laddas inte upp till servern, och SRT-filen som skapas sparas inte heller på servern. SRT-filen skapas i webbläsaren och laddas ner direkt till din dator.
+
 ## Funktioner
 
 - Välj lokal ljud- eller videofil.
@@ -16,6 +20,7 @@ Du väljer media, klistrar in texten och tidsätter raderna under uppspelning. N
 - Ångra senaste tidsättning.
 - Förbered och ladda ner SRT-export.
 - Media hanteras lokalt i webbläsaren med `URL.createObjectURL()` och laddas inte upp till servern.
+- SRT-exporten skapas lokalt i webbläsaren och sparas inte på servern.
 
 ## OpenGraph-bild
 
