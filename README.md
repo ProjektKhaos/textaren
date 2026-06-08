@@ -55,10 +55,9 @@ textaren/
 │   └── textare/
 │       ├── app.js
 │       └── textare.css
-├── image/
-│   ├── textaren_og_2.png
-│   └── övriga favicon-/bildfiler
-└── docs/
+└── image/
+    ├── textaren_og_2.png
+    └── övriga favicon-/bildfiler
 ```
 
 ## Kontroller
