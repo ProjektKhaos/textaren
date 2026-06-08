@@ -49,7 +49,6 @@ Den används av sidan som förhandsbild för Facebook, Messenger, X/Twitter och 
 textaren/
 ├── textare.php
 ├── index.php
-├── mall.php
 ├── style.css
 ├── media.css
 ├── assets/
