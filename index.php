@@ -27,11 +27,8 @@ $og_image = $host
 
   <title><?= htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8') ?></title>
   <meta name="description" content="Hasses Textare - ett enkelt verktyg för textning, tidsättning och export till SRT.">
-
-  <link rel="apple-touch-icon" sizes="180x180" href="image/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="image/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="image/favicon-16x16.png">
-  <link rel="manifest" href="image/site.webmanifest">
 
   <!-- OpenGraph / Facebook -->
   <meta property="og:title" content="Hasses Textare">
