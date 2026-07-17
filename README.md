@@ -72,7 +72,7 @@ node --check assets/textare/app.js
 ## Publicerad sida
 
 ```text
-https://www.aberg.online/textaren/textare.php
+[https://www.aberg.online/textaren/textare.php](https://www.aberg.online/textaren/)
 ```
 
 ## Made by
